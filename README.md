@@ -1,4 +1,4 @@
-Wanderlust is a full-stack Airbnb-inspired web application that allows users to explore and list vacation properties. The platform is built with a focus on providing a clean UI, seamless user experience, and robust functionality.
+Airbnb lite is a full-stack Airbnb-inspired web application that allows users to explore and list vacation properties. The platform is built with a focus on providing a clean UI, seamless user experience, and robust functionality.
 
 ✨ Features
 
